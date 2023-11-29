@@ -1,0 +1,18 @@
+{
+  "name": "@clownmeister/solid",
+  "version": "1.0.0",
+  "description": "Example project that adheres to SOLID principles. FTMO themed :)",
+  "main": "dist/index.js",
+  "author": "Lucian",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.2",
+    "vite": "^5.0.4"
+  },
+  "scripts": {
+    "build": "yarn tsc",
+    "dev": "yarn vite"
+  },
+  "dependencies": {}
+}
